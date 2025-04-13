@@ -353,7 +353,7 @@ main {
 /* ======================= */
 /* Sección de Catálogo */
 /* ======================= */
-/* Redefinición del grid para catálogo sin usar grid-template-areas */
+
 .catalogo {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
